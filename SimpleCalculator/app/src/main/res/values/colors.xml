@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#de5b37</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#c27019</color>
+    <color name="skorCrna">#FF5C5959</color>
+    <color name="barva1">#403f3d</color>
+</resources>
